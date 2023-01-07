@@ -1,6 +1,6 @@
 # DatePicker component with persian calendar for svelte
 
-#Installation 
+# Installation 
 
 npm install --save svelte-persian-dp
 
